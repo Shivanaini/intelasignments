@@ -1,2 +1,3 @@
 this going to stash
 this is not gona stast
+git stash has done by me
